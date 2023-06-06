@@ -1,6 +1,6 @@
 <div class="container my-5">
   <h1 class="mb-3">Employees</h1>
-  <table class="table table-hover" *ngIf="employees">
+  <table class="table table-hover" *ngIf="employees && employees.length > 0">
     <thead>
       <tr>
         <th scope="col">ID</th>
@@ -22,5 +22,5 @@
       </tr>
     </tbody>
   </table>
-  <p *ngIf="!employees">No employees Found</p>
+  <p *ngIf="!employees || employees.length <= 0">No employees Found</p>
 </div>
