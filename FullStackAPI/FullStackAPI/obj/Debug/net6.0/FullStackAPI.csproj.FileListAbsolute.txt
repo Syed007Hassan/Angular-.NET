@@ -85,3 +85,177 @@ E:\All Projects\Angular.NET\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Co
 E:\All Projects\Angular.NET\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 E:\All Projects\Angular.NET\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Text.Json.dll
 E:\All Projects\Angular.NET\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\appsettings.json
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.exe
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.deps.json
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.runtimeconfig.json
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.pdb
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Humanizer.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.AssemblyReference.cache
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfoInputs.cache
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfo.cs
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.CoreCompileInputs.cache
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.FullStackAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FullStackAPI.props
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FullStackAPI.props
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FullStackAPI.props
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\scopedcss\bundle\FullStackAPI.styles.css
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.CopyComplete
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\refint\FullStackAPI.dll
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.pdb
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.genruntimeconfig.cache
+D:\All Projects\Angular-.NET-CRUD-main\FullStackAPI\FullStackAPI\obj\Debug\net6.0\ref\FullStackAPI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.exe
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.deps.json
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.runtimeconfig.json
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\FullStackAPI.pdb
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.AssemblyReference.cache
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfoInputs.cache
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.AssemblyInfo.cs
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.CoreCompileInputs.cache
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.FullStackAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.FullStackAPI.props
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FullStackAPI.props
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FullStackAPI.props
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\scopedcss\bundle\FullStackAPI.styles.css
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.csproj.CopyComplete
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\refint\FullStackAPI.dll
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.pdb
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.genruntimeconfig.cache
+C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\ref\FullStackAPI.dll
