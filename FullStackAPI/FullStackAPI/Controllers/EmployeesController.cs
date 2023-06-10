@@ -20,7 +20,6 @@ namespace FullStackAPI.Controllers
         public async Task<IActionResult> GetAllEmployees()
         {
             var employees = await _fullStackDbContext.Employees.ToListAsync();
-
             return Ok(employees);
         }
 
@@ -33,7 +32,6 @@ namespace FullStackAPI.Controllers
             await _fullStackDbContext.Employees.AddAsync(employeeRequest);
             await _fullStackDbContext.SaveChangesAsync();
             return Ok(employeeRequest);
-
 
         }
 
