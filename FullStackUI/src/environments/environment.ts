@@ -1,5 +1,9 @@
+export const baseApiUrl = 'https://localhost:7271/';
 export const environment = {
 
   production: false,
-  baseApiUrl : 'https://localhost:7271/'
+  baseApiUrl : baseApiUrl,
 };
+
+
+
