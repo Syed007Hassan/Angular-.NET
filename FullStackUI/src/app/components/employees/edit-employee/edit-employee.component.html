@@ -2,7 +2,7 @@
 <div class="container my-5">
   <div class="row"> <div class="col-6">
     <h1 class="mb-3" >Edit Employee</h1>
-    <form #form="ngForm"  >
+    <form #form="ngForm" (ngSubmit)="updateEmployee()"   >
       <div class="mb-3">
         <label for="id" class="form-label">ID</label>
         <input type="text" name="id" class="form-control" id="id" readonly [(ngModel)]="employeeDetails.id">
@@ -29,7 +29,8 @@
         <label for="department" class="form-label">Department</label>
         <input type="text" name="department" class="form-control" id="department" [(ngModel)]="employeeDetails.department">
       </div>
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="submit" formaction="" class="btn btn-primary mr-2">Edit</button>
+      <button type="button" (click)="deleteEmployee(employeeDetails.id)" class="btn btn-danger ms-2">Delete</button>
     </form>
   </div>
   </div>

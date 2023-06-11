@@ -55,12 +55,12 @@ namespace FullStackAPI.Controllers
 
         [HttpPut]
         [Route("{id:Guid}")]
-        
+
         public async Task<IActionResult> UpdateEmployee([FromRoute] Guid id, Employee updateEmployeeRequest)
         {
             var employee = await _fullStackDbContext.Employees.FirstOrDefaultAsync(x => x.Id == id);
 
-            if(employee == null)
+            if (employee == null)
             {
                 return NotFound();
             }
@@ -76,6 +76,26 @@ namespace FullStackAPI.Controllers
 
                 return Ok(employee);
 
+            }
+        }
+
+
+        [HttpDelete]
+        [Route("{id:Guid}")]
+
+        public async Task<IActionResult> DeleteEmployee([FromRoute] Guid id)
+        {
+            var employee = await _fullStackDbContext.Employees.FirstOrDefaultAsync(x => x.Id == id);
+
+            if(employee == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                _fullStackDbContext.Employees.Remove(employee);
+                await _fullStackDbContext.SaveChangesAsync();
+                return Ok();
             }
         }
 
