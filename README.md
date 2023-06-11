@@ -1,4 +1,4 @@
-# Angular-.NET-CRUD
+# Angular-.NET
 Implemented REST APIs in Dotnet Entity Core framework along with Angular and SQL Server.
 
 ![image](https://github.com/Syed007Hassan/Angular-.NET-CRUD/assets/104893311/05485077-c3c8-49c3-a574-b6905de9bbba)<br><br>
