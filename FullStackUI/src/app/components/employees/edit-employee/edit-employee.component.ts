@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { Employee } from 'src/app/models/employee.model';
 import { EmployeesService } from 'src/app/services/employees.service';
 
@@ -20,24 +20,35 @@ export class EditEmployeeComponent implements OnInit {
 
   };
 
-  constructor(private route: ActivatedRoute, private employeeService: EmployeesService ) { }
+  constructor(private route: ActivatedRoute, private employeeService: EmployeesService, private router: Router ) { }
 
   ngOnInit(): void {
-    this.route.paramMap.subscribe(params => {
-      next: (params: any) => {
+    this.route.paramMap.subscribe({
+      next: (params) => {
         const id = params.get('id');
-        console.log(id);
-
         if(id){
           this.employeeService.getEmployee(id)
           .subscribe({
             next: (response) => {
+              console.log(response);
               this.employeeDetails = response;
             }
           })
         }
+        else{
+          console.log("no id found");
+        }
       }
     })
    }
+
+    updateEmployee(){
+      this.employeeService.updateEmployee(this.employeeDetails.id, this.employeeDetails)
+      .subscribe({
+        next: (response) => {
+          console.log(response);
+        }
+      })
+    }
 
 }

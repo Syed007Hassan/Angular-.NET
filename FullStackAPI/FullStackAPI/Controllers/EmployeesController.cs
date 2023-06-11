@@ -45,11 +45,37 @@ namespace FullStackAPI.Controllers
             var employee = await _fullStackDbContext.Employees.FirstOrDefaultAsync(x => x.Id == id);
             if (employee == null)
             {
-                return null;
+                return NotFound();
             }
             else
             {
                 return Ok(employee);
+            }
+        }
+
+        [HttpPut]
+        [Route("{id:Guid}")]
+        
+        public async Task<IActionResult> UpdateEmployee([FromRoute] Guid id, Employee updateEmployeeRequest)
+        {
+            var employee = await _fullStackDbContext.Employees.FirstOrDefaultAsync(x => x.Id == id);
+
+            if(employee == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                employee.Name = updateEmployeeRequest.Name;
+                employee.Phone = updateEmployeeRequest.Phone;
+                employee.Email = updateEmployeeRequest.Email;
+                employee.salary = updateEmployeeRequest.salary;
+                employee.Department = updateEmployeeRequest.Department;
+
+                await _fullStackDbContext.SaveChangesAsync();
+
+                return Ok(employee);
+
             }
         }
 
