@@ -259,3 +259,4 @@ C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\
 C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.pdb
 C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\FullStackAPI.genruntimeconfig.cache
 C:\Users\OTS\Desktop\Training\Projects\Angular-Dotnet\FullStackAPI\FullStackAPI\obj\Debug\net6.0\ref\FullStackAPI.dll
+E:\All Projects\Angular.NET\FullStackAPI\FullStackAPI\bin\Debug\net6.0\Bard\allData.json

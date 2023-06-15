@@ -99,6 +99,20 @@ namespace FullStackAPI.Controllers
             }
         }
 
+        [HttpPost]
+        [Route("prompt/{prompt}")]
+        public IActionResult UpdatedPrompt([FromRoute] string prompt, Bard updateBardRequest)
+        {
+            updateBardRequest.PromtedQuery = prompt;
+            updateBardRequest.PromptedResponse = "I am a Bard";
+
+            return Ok(updateBardRequest);
+        }
+
+
+
+
+
 
 
     }

@@ -8,6 +8,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { AddEmployeeComponent } from './components/employees/add-employee/add-employee.component';
 import { FormsModule } from '@angular/forms';
 import { EditEmployeeComponent } from './components/employees/edit-employee/edit-employee.component';
+import { BardAssistanceComponent } from './components/employees/bard-assistance/bard-assistance.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { EditEmployeeComponent } from './components/employees/edit-employee/edit
     EmployeesListComponent,
     AddEmployeeComponent,
     EditEmployeeComponent,
+    BardAssistanceComponent,
 
   ],
   imports: [

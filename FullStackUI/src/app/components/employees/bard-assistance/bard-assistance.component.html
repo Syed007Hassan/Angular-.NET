@@ -1,0 +1,20 @@
+<div class="container my-5">
+  <div class="row">
+    <div class="col-8">
+      <h1 class="mb-3">Search Employee Data Using Bard</h1>
+      <form #form="ngForm">
+        <div class="mb-3">
+          <label for="prompt" class="form-label">Enter the prompt</label>
+          <div class="d-flex align-items-start">
+            <input type="text" name="prompt" class="form-control" id="prompt">
+            <button type="button" (click)="getPromptResponse()" class="btn btn-danger ms-2">Submit</button>
+          </div>
+        </div>
+        <div class="mb-3">
+          <label for="result" class="form-label">Result</label>
+          <textarea name="result" class="form-control" id="result" rows="4" readonly>{{bardDetails.promptResponse}}</textarea>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
