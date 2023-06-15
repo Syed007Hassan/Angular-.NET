@@ -2,7 +2,7 @@
 {
     public class Bard
     {
-        public string PromtedQuery{ get; set; }
-        public string PromptedResponse { get; set; }
+        public string promptedQuery { get; set; }
+        public string promptedResponse { get; set; }
     }
 }

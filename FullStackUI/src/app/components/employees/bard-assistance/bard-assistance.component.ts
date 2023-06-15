@@ -11,7 +11,7 @@ import { EmployeesService } from 'src/app/services/employees.service';
 export class BardAssistanceComponent implements OnInit {
   bardDetails: Bard = {
     promptedQuery: '',
-    promptResponse: '',
+    promptedResponse: '',
   };
 
   constructor(
@@ -33,7 +33,7 @@ export class BardAssistanceComponent implements OnInit {
       .sendPromptQuery(this.bardDetails.promptedQuery, this.bardDetails)
       .subscribe({
         next: (response) => {
-          console.log(response + ' is the response');
+          console.log(response.promptedResponse + ' is the response');
           this.bardDetails = response;
         },
       });

@@ -2,6 +2,7 @@
 using FullStackAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
 
 namespace FullStackAPI.Controllers
 {
@@ -103,8 +104,10 @@ namespace FullStackAPI.Controllers
         [Route("prompt/{prompt}")]
         public IActionResult UpdatedPrompt([FromRoute] string prompt, Bard updateBardRequest)
         {
-            updateBardRequest.PromtedQuery = prompt;
-            updateBardRequest.PromptedResponse = "I am a Bard";
+            updateBardRequest.promptedQuery = prompt;
+            //print the prompt to the console
+            Debug.WriteLine(prompt);
+            updateBardRequest.promptedResponse = "I am a Bard";
 
             return Ok(updateBardRequest);
         }
