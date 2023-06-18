@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { environment } from '../../environments/environment';
 import { Employee } from '../models/employee.model';
-import { Observable, map } from 'rxjs';
+import { Observable, forkJoin, map } from 'rxjs';
 import { Bard } from '../models/bard.model';
 
 @Injectable({
@@ -49,13 +49,26 @@ export class EmployeesService {
     return this.http.delete<Employee>(this.baseApiUrl + '/api/employees/' + id);
   }
 
+  // sendPromptQuery(
+  //   promptQuery: string,
+  //   updatedBardRequest: Bard
+  // ): Observable<Bard> {
+  //   const url = `${this.baseApiUrl}/api/employees/prompt/${encodeURIComponent(
+  //     promptQuery
+  //   )}`;
+  //   return this.http.post<Bard>(url, updatedBardRequest);
+  // }
+
   sendPromptQuery(
     promptQuery: string,
     updatedBardRequest: Bard
-  ): Observable<Bard> {
-    const url = `${this.baseApiUrl}/api/employees/prompt/${encodeURIComponent(
-      promptQuery
-    )}`;
-    return this.http.post<Bard>(url, updatedBardRequest);
+  ): Observable<{ bard: Bard; employee: Employee[] }> {
+    const bardUrl = `${
+      this.baseApiUrl
+    }/api/employees/prompt/${encodeURIComponent(promptQuery)}`;
+    const employeeUrl = `${this.baseApiUrl}/api/employees`;
+    const bard$ = this.http.post<Bard>(bardUrl, updatedBardRequest);
+    const employee$ = this.http.get<Employee[]>(employeeUrl);
+    return forkJoin({ bard: bard$, employee: employee$ });
   }
 }

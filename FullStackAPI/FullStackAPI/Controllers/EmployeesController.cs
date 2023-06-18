@@ -102,14 +102,16 @@ namespace FullStackAPI.Controllers
 
         [HttpPost]
         [Route("prompt/{prompt}")]
-        public IActionResult UpdatedPrompt([FromRoute] string prompt, Bard updateBardRequest)
+        public async Task<IActionResult> UpdatedPrompt([FromRoute] string prompt, Bard updateBardRequest)
         {
             updateBardRequest.promptedQuery = prompt;
             //print the prompt to the console
             Debug.WriteLine(prompt);
             updateBardRequest.promptedResponse = "I am a Bard";
+            var employees = await _fullStackDbContext.Employees.ToListAsync();
 
-            return Ok(updateBardRequest);
+            var result = new { Bard = updateBardRequest, Employees = employees };
+            return Ok(result);
         }
 
 

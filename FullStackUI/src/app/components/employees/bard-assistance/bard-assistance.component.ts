@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { Bard } from 'src/app/models/bard.model';
+import { Employee } from 'src/app/models/employee.model';
 import { EmployeesService } from 'src/app/services/employees.service';
 
 @Component({
@@ -13,6 +14,8 @@ export class BardAssistanceComponent implements OnInit {
     promptedQuery: '',
     promptedResponse: '',
   };
+
+  employeeDetails: Employee[] = [];
 
   constructor(
     private route: ActivatedRoute,
@@ -33,8 +36,11 @@ export class BardAssistanceComponent implements OnInit {
       .sendPromptQuery(this.bardDetails.promptedQuery, this.bardDetails)
       .subscribe({
         next: (response) => {
-          console.log(response.promptedResponse + ' is the response');
-          this.bardDetails = response;
+          this.bardDetails = response.bard;
+
+          this.employeeDetails = response.employee;
+
+          console.log(this.employeeDetails);
         },
       });
   }
